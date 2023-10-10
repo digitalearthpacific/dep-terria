@@ -24,6 +24,7 @@
     "services.aremi.data61.io",
     "geoserver.pacificdata.org",
     "localhost:8080",
-    "pacificdata.org"
+    "pacificdata.org",
+    "geoserver.pacificdata.org"
   ]
 }
